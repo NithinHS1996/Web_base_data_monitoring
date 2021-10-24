@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/webmonitoring.dir/src/main.cpp.o CMakeFiles/webmonitoring.dir/src/networking/bindingsocket.cpp.o CMakeFiles/webmonitoring.dir/src/networking/listeningsocket.cpp.o CMakeFiles/webmonitoring.dir/src/networking/socket.cpp.o CMakeFiles/webmonitoring.dir/src/server/server.cpp.o CMakeFiles/webmonitoring.dir/src/testingsocket.cpp.o  -o webmonitoring 
