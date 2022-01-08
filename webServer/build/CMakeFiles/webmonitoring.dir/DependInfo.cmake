@@ -1,21 +1,19 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/nithin/Everything/Linux_with_c++/http/src/main.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/main.cpp.o"
-  "/home/nithin/Everything/Linux_with_c++/http/src/networking/bindingsocket.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/networking/bindingsocket.cpp.o"
-  "/home/nithin/Everything/Linux_with_c++/http/src/networking/listeningsocket.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/networking/listeningsocket.cpp.o"
-  "/home/nithin/Everything/Linux_with_c++/http/src/networking/socket.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/networking/socket.cpp.o"
-  "/home/nithin/Everything/Linux_with_c++/http/src/server/server.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/server/server.cpp.o"
-  "/home/nithin/Everything/Linux_with_c++/http/src/testingsocket.cpp" "/home/nithin/Everything/Linux_with_c++/http/build/CMakeFiles/webmonitoring.dir/src/testingsocket.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../inc"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/main.cpp" "CMakeFiles/webmonitoring.dir/src/main.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/main.cpp.o.d"
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/networking/bindingsocket.cpp" "CMakeFiles/webmonitoring.dir/src/networking/bindingsocket.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/networking/bindingsocket.cpp.o.d"
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/networking/listeningsocket.cpp" "CMakeFiles/webmonitoring.dir/src/networking/listeningsocket.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/networking/listeningsocket.cpp.o.d"
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/networking/socket.cpp" "CMakeFiles/webmonitoring.dir/src/networking/socket.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/networking/socket.cpp.o.d"
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/server/server.cpp" "CMakeFiles/webmonitoring.dir/src/server/server.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/server/server.cpp.o.d"
+  "/home/nithin/Everything/Linux_with_c++/webServer/src/testingsocket.cpp" "CMakeFiles/webmonitoring.dir/src/testingsocket.cpp.o" "gcc" "CMakeFiles/webmonitoring.dir/src/testingsocket.cpp.o.d"
   )
 
 # Targets to which this target links.

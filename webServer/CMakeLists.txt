@@ -15,6 +15,7 @@ SET(CMAKE_SYSTEM_NAME Linux)
 #this one not so much
 SET(CMAKE_SYSTEM_VERSION 1)
 
+#comment below two lines to run in linux environment
 # specify the cross compiler
 #SET(CMAKE_CXX_COMPILER arm-linux-gnueabihf-g++)
 
